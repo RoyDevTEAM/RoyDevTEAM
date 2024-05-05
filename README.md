@@ -47,13 +47,31 @@ Como desarrollador Full Stack con una pasión por el desarrollo de soluciones co
 
 ---
 
+# 📊 Estadísticas de GitHub
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RoyDevTEAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoyDevTEAM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDevTEAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+  <!-- Estadísticas de commits, contribuciones, etc. -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RoyDevTEAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas de GitHub de RoyDevTEAM">
+  <br/>
+  
+  <!-- Racha de contribuciones -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyDevTEAM&theme=dark&hide_border=false" alt="Racha de contribuciones de RoyDevTEAM">
+  <br/>
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyDevTEAM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados por RoyDevTEAM">
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RoyDevTEAM&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Contador de visitas -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=RoyDevTEAM&icon=6&color=0" alt="Contador de visitas a perfil de RoyDevTEAM">
+</div>
+
+<!-- Nota sobre la herramienta utilizada para crear el README -->
+<div align="center">
+  <small>Proudly created with GPRM (https://gprm.itsvg.in)</small>
+</div>
